@@ -199,7 +199,7 @@ The dashboard includes:
 
 ### Dashboard Preview
 
-![Myntra Sales Performance Dashboard](SALE%20DASHBOARD.png)
+![Myntra Sales Performance Dashboard](SALE_DASHBOARD.png)
 
 ---
 

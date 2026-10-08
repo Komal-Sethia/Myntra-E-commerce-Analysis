@@ -199,7 +199,7 @@ The dashboard includes:
 
 ### Dashboard Preview
 
-![Myntra Sales Performance Dashboard](SALE_DASHBOARD.png)
+![Myntra Sales Performance Dashboard](SALE%20DASHBOARD.png)
 
 ---
 
@@ -241,103 +241,29 @@ The dashboards were developed to make the following business questions easier to
 
 ```text
 Raw Myntra Dataset
-        ↓
+       ↓
 Data Cleaning
-        ↓
+       ↓
 Data Transformation
-        ↓
+       ↓
 Data Consolidation
-        ↓
+       ↓
 KPI Development
-        ↓
+       ↓
 Pivot Tables
-        ↓
+       ↓
 Charts & Visual Analysis
-        ↓
+       ↓
 Business Analysis
-        ↓
+       ↓
 Dashboard Development
-        ↓
+       ↓
 Business Insights
-```
 
----
 
-# Excel Techniques Used
+## PART 2/2
 
-The project was developed using Microsoft Excel and includes:
-
-- Data Cleaning
-- Data Transformation
-- Excel Formulas
-- Calculated Fields
-- Pivot Tables
-- Pivot Charts
-- KPI Cards
-- Conditional Formatting
-- Data Aggregation
-- Sorting
-- Filtering
-- Dashboard Design
-- Interactive Filters
-- Data Visualization
-
----
-
-# Tools & Technologies
-
-- Microsoft Excel
-- Excel Pivot Tables
-- Excel Pivot Charts
-- Excel Formulas
-- Data Cleaning
-- Data Analysis
-- Business Analysis
-- Dashboard Development
-- Data Visualization
-
----
-
-# Skills Demonstrated
-
-- Data Cleaning
-- Data Transformation
-- Exploratory Data Analysis
-- Sales Analysis
-- E-commerce Analysis
-- Business Analysis
-- KPI Development
-- Data Visualization
-- Dashboard Development
-- Product Analysis
-- Category Analysis
-- Profitability Analysis
-- Business Performance Analysis
-
----
-
-# Project Structure
-
-```text
-Myntra-E-commerce-Analysis/
-│
-├── README.md
-│
-├── Myntra_Ecommerce_Analysis.xlsx
-│
-├── FINAL DASHBOARD.png
-│
-└── SALE DASHBOARD.png
-```
-
----
-
-# Final Excel Workbook
-
-The complete Excel workbook contains the cleaned data, analysis, KPI calculations, pivot-based analysis, charts and interactive dashboards.
-
-[View / Download the Complete Excel Workbook](Myntra_Ecommerce_Analysis.xlsx)
-
+```markdown
 ---
 
 # Project Outcome
